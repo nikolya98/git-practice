@@ -1,6 +1,6 @@
 def main():
     name = input('Введите Ваше имя: ')
-    print('Привет ' + name)
+    print(f'Привет, {name}! Как дела?')
     
 
 if __name__ == '__main__':
